@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_PROMO_grid-product__picture</name>
+   <tag></tag>
+   <elementGuidId>ff20a55e-c1d9-44ae-a619-a1901bcd5165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ecwid-products']/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div[3]/div[2]/div/div/div/div[2]/a/div[3]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.grid-product__picture</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PROMO Bench Tickled Pink 100ml&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1bfe99e1-05fa-4606-971b-ff31ef552d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d2j6dbq0eux0bg.cloudfront.net/images/7193083/1762104571.jpg</value>
+      <webElementGuid>99b45fc4-59bd-4264-a689-8374d0f8958d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bench Tickled Pink 100ml</value>
+      <webElementGuid>0927ac0f-6e71-4bdf-be81-29a63b6252b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Bench Tickled Pink 100ml</value>
+      <webElementGuid>1ba5fa23-b78d-46cd-afa8-3352be0eee1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-product__picture</value>
+      <webElementGuid>b9e9d415-75e2-458c-9a47-956278f7bcf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://d2j6dbq0eux0bg.cloudfront.net/images/7193083/1762104571.jpg 1x, https://d2j6dbq0eux0bg.cloudfront.net/images/7193083/1762104570.jpg 2x</value>
+      <webElementGuid>70de8bed-da1a-486c-a62b-a18d7cd9cfdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ecwid-products&quot;)/div[@class=&quot;ec-storefront-v2 ec-size ec-size--xxs ec-size--xs ec-size--s ec-size--m ecwid-no-touch ecwid-supports-cssanimations ecwid-responsive ecwid-no-dragndrop&quot;]/div[1]/div[@class=&quot;ecwid-productBrowser ecwid-productBrowser-CategoryPage ecwid-productBrowser-CategoryPage-36641004&quot;]/div[1]/div[1]/div[2]/div[@class=&quot;ec-wrapper&quot;]/div[@class=&quot;ec-store ec-store__category-page ec-store__category-page--36641004 ec-store--medium-category-images ec-store--medium-product-images&quot;]/div[@class=&quot;ec-store__content-wrapper ec-store__content-wrapper--wide&quot;]/div[@class=&quot;ec-grid&quot;]/div[@class=&quot;grid__wrap&quot;]/div[@class=&quot;grid__wrap-inner&quot;]/div[@class=&quot;grid__products grid__products--classic grid__products--layout-center grid__products--medium-items grid__products--aspect-ratio-1&quot;]/div[@class=&quot;grid-product grid-product--id-254957040&quot;]/div[@class=&quot;grid-product__wrap&quot;]/div[@class=&quot;grid-product__wrap-inner&quot;]/a[@class=&quot;grid-product__image&quot;]/div[@class=&quot;grid-product__image-wrap&quot;]/img[@class=&quot;grid-product__picture&quot;]</value>
+      <webElementGuid>8fcafa24-2cf6-4b88-a5f2-7524da42e390</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ecwid-products']/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div[3]/div[2]/div/div/div/div[2]/a/div[3]/img</value>
+      <webElementGuid>064a1d77-d13d-4e8a-b1a5-1fca466799ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Bench Tickled Pink 100ml']</value>
+      <webElementGuid>987daaa3-ceab-428a-aa76-0867481737f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>d3e44064-d8cd-41b1-b809-52b5c8a22bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d2j6dbq0eux0bg.cloudfront.net/images/7193083/1762104571.jpg' and @title = 'Bench Tickled Pink 100ml' and @alt = 'Bench Tickled Pink 100ml']</value>
+      <webElementGuid>8e707a96-4073-4f7a-9be8-b1620fc12fdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please chooseFrom a friendIm a repea_a39832</name>
+   <tag></tag>
+   <elementGuidId>f861ad89-2bc0-4650-8617-cba87d0630e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ecwid-products']/div[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div[4]/div[2]/div[2]/div[5]/div/div/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control__select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>df200edd-35d5-45e5-ac9c-a01355d7f154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control__select</value>
+      <webElementGuid>c8c0d40e-d900-46a0-ae75-26ab85499660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please chooseFrom a friendI'm a repeat customerFacebook, Twitter</value>
+      <webElementGuid>909f6aa3-b456-48a9-b3a2-54a3de03d339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ecwid-products&quot;)/div[@class=&quot;ec-storefront-v2 ec-size ec-size--xxs ec-size--xs ec-size--s ec-size--m ecwid-no-touch ecwid-supports-cssanimations ecwid-responsive ecwid-no-dragndrop&quot;]/div[1]/div[@class=&quot;ecwid-productBrowser ecwid-productBrowser-CheckoutPaymentDetailsPage&quot;]/div[2]/div[@class=&quot;ec-wrapper&quot;]/div[@class=&quot;ec-store ec-store__checkout-page&quot;]/div[@class=&quot;ec-store__content-wrapper&quot;]/div[@class=&quot;ec-cart notranslate&quot;]/div[@class=&quot;ec-cart__body&quot;]/div[@class=&quot;ec-cart__body-inner&quot;]/div[@class=&quot;ec-cart__steps&quot;]/div[@class=&quot;ec-cart__step ec-cart-step ec-cart-step--payment ec-cart-step--current&quot;]/div[@class=&quot;ec-cart-step__wrap&quot;]/div[@class=&quot;ec-cart-step__body&quot;]/div[@class=&quot;ec-cart-step__section ec-cart-step__section--askHowYouFoundUsApp&quot;]/div[@class=&quot;ec-form ec-form--askHowYouFoundUsApp&quot;]/div[@class=&quot;ec-form__row ec-form__row--askHowYouFoundUsApp&quot;]/div[@class=&quot;ec-form__cell ec-form__cell--askHowYouFoundUsApp&quot;]/div[@class=&quot;form-control--empty form-control--select form-control--focus  form-control form-control--flexible&quot;]/select[@class=&quot;form-control__select&quot;]</value>
+      <webElementGuid>4b4c4a18-2656-45fe-98fa-0de3620a8555</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ecwid-products']/div[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div[4]/div[2]/div[2]/div[5]/div/div/div/div/select</value>
+      <webElementGuid>1c83e08e-6493-45bc-9807-848871e6dd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave us a note about your order'])[1]/following::select[1]</value>
+      <webElementGuid>4bc7919e-9b51-43a0-94a1-d06db217f997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use other address'])[1]/following::select[1]</value>
+      <webElementGuid>dbf58110-604d-47ef-9564-7ec24ccdb99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please choose'])[2]/preceding::select[1]</value>
+      <webElementGuid>9a4e6e84-d13f-48be-b224-1513bb611043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='it will help us greatly!'])[1]/preceding::select[1]</value>
+      <webElementGuid>c54d8c1c-938a-41df-af5f-b729f82a1c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0616bcf5-d4c3-49a5-829f-bd69c2cd5846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = concat(&quot;Please chooseFrom a friendI&quot; , &quot;'&quot; , &quot;m a repeat customerFacebook, Twitter&quot;) or . = concat(&quot;Please chooseFrom a friendI&quot; , &quot;'&quot; , &quot;m a repeat customerFacebook, Twitter&quot;))]</value>
+      <webElementGuid>49a93c6f-c70c-4926-bb3c-6acb3db39c40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

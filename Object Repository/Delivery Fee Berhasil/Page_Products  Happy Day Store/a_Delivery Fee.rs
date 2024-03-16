@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Delivery Fee</name>
+   <tag></tag>
+   <elementGuidId>f871e337-1326-4210-8f51-98d4a2b9e1da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='tile-header-2Mph3d']/div[2]/div/div/div[2]/div/div/nav/div[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Delivery Fee&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f992b814-b36a-4c80-a9a1-92b76b5b4fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ins-header__sidebar-menu-link-title</value>
+      <webElementGuid>f0e178ad-ee61-4e43-a00f-7285b8ca0b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/pages/shipping-payment</value>
+      <webElementGuid>a81ab4e1-2ab0-4975-b8d0-a0c6a68a01f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>83a12109-1048-43c6-9ac8-11732a6e99f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivery Fee</value>
+      <webElementGuid>15e03302-bd34-4516-9fcf-88132cc0bcda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tile-header-2Mph3d&quot;)/div[@class=&quot;ins-tile__wrap ins-tile__animated&quot;]/div[@class=&quot;ins-header&quot;]/div[@class=&quot;ins-header__wrap&quot;]/div[@class=&quot;ins-header__sidebar ins-header__sidebar--menu&quot;]/div[@class=&quot;ins-header__sidebar-menu&quot;]/div[@class=&quot;ins-header__sidebar-menu-wrap&quot;]/nav[@class=&quot;ins-header__sidebar-menu-inner&quot;]/div[@class=&quot;ins-header__sidebar-menu-link&quot;]/a[@class=&quot;ins-header__sidebar-menu-link-title&quot;]</value>
+      <webElementGuid>a8660f52-e3e0-4192-98ab-cbab1d71b784</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='tile-header-2Mph3d']/div[2]/div/div/div[2]/div/div/nav/div[6]/a</value>
+      <webElementGuid>ce96caa1-c1d5-4574-b9d9-5d6236c9c30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Delivery Fee')])[2]</value>
+      <webElementGuid>ae128095-05f1-473f-81e5-c76b7fc2819a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our App'])[2]/following::a[1]</value>
+      <webElementGuid>0fb0bd64-02fd-43f9-b1c6-86424128f11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[2]/following::a[2]</value>
+      <webElementGuid>1be08e14-2257-4730-b9b0-5c38d050bbe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Options'])[2]/preceding::a[1]</value>
+      <webElementGuid>5bd1eaf3-8032-447c-9044-35ad1b21b8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit our FB'])[2]/preceding::a[5]</value>
+      <webElementGuid>feb737c4-a70f-4caf-9451-28c7678c4394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/products/pages/shipping-payment')])[2]</value>
+      <webElementGuid>89c0c3f5-0879-4161-b7c5-858513192061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div[6]/a</value>
+      <webElementGuid>586eab73-cca2-44a9-acce-63e8b6bb7528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/products/pages/shipping-payment' and (text() = 'Delivery Fee' or . = 'Delivery Fee')]</value>
+      <webElementGuid>2dd4bccd-257f-4d61-a37e-c211c8a2a02b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

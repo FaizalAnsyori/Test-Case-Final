@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Card Payment</name>
+   <tag></tag>
+   <elementGuidId>e4cde8e7-ce99-4626-a0e9-4e1675e9f7db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='feature-list-Rugwmz-FLT24']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#feature-list-Rugwmz-FLT24 > div.ins-tile__item-header > div.ins-tile__item-title > div.ins-tile__feature-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Card Payment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3fd52171-57c6-4a02-9d17-bc5c4f8df2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ins-tile__feature-title</value>
+      <webElementGuid>ab979b9c-b960-4ec8-8da5-fbfe019fd6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Card Payment </value>
+      <webElementGuid>94cbd3ce-8bdc-4de5-a831-789e6a9ca38a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;feature-list-Rugwmz-FLT24&quot;)/div[@class=&quot;ins-tile__item-header&quot;]/div[@class=&quot;ins-tile__item-title&quot;]/div[@class=&quot;ins-tile__feature-title&quot;]</value>
+      <webElementGuid>2cd74a53-22d2-441f-be73-df9cce27eb4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='feature-list-Rugwmz-FLT24']/div/div/div[2]</value>
+      <webElementGuid>ff1e137a-09a5-4d92-b462-20b600d6366d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gcash'])[1]/following::div[10]</value>
+      <webElementGuid>9baeefd7-b032-4555-b8bb-a687a88932e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Both Available in the shop and delivery in Muscat Area.'])[1]/preceding::div[3]</value>
+      <webElementGuid>b23920fa-1daf-4fb3-9e29-6525666fdbbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='©EAST SKY INTERNATIONAL'])[1]/preceding::div[6]</value>
+      <webElementGuid>5c28e373-b418-4717-a5aa-bf1b30da1dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Card Payment']/parent::*</value>
+      <webElementGuid>040c594d-1ae4-477a-bc1f-fad291a3e91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]</value>
+      <webElementGuid>ee704df9-2329-4711-a9a5-3275d3395e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Card Payment ' or . = 'Card Payment ')]</value>
+      <webElementGuid>19005cce-d8e5-456e-aa4d-2f5fc3ec83fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

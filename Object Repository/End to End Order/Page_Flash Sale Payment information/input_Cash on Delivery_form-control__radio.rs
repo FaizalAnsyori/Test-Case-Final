@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Cash on Delivery_form-control__radio</name>
+   <tag></tag>
+   <elementGuidId>05ad56d7-827c-4563-a1e6-3254fe3dd4ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ec-radiogroup__item.ec-radiogroup__item--202609-1522651231641.ec-radiogroup__item--Bank-Transfer.ec-radiogroup__item--multiline > div.ec-radiogroup__radio > div.form-control--radio.form-control > div.form-control__radio-wrap > input.form-control__radio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Bank Transfer&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>db25e5c6-f802-43a2-9ce0-69d25e4a1844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control__radio</value>
+      <webElementGuid>518a2610-a133-4e93-89c5-b2a07c5d24ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>47ce1c86-8f07-450d-a923-91ef3ec4ed0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ecwid-products&quot;)/div[@class=&quot;ec-storefront-v2 ec-size ec-size--xxs ec-size--xs ec-size--s ec-size--m ecwid-no-touch ecwid-supports-cssanimations ecwid-responsive ecwid-no-dragndrop&quot;]/div[1]/div[@class=&quot;ecwid-productBrowser ecwid-productBrowser-CheckoutPaymentDetailsPage&quot;]/div[2]/div[@class=&quot;ec-wrapper&quot;]/div[@class=&quot;ec-store ec-store__checkout-page&quot;]/div[@class=&quot;ec-store__content-wrapper&quot;]/div[@class=&quot;ec-cart notranslate&quot;]/div[@class=&quot;ec-cart__body&quot;]/div[@class=&quot;ec-cart__body-inner&quot;]/div[@class=&quot;ec-cart__steps&quot;]/div[@class=&quot;ec-cart__step ec-cart-step ec-cart-step--payment ec-cart-step--current&quot;]/div[@class=&quot;ec-cart-step__wrap&quot;]/div[@class=&quot;ec-cart-step__body&quot;]/div[1]/div[@class=&quot;ec-cart-step__section&quot;]/div[@class=&quot;ec-radiogroup&quot;]/div[@class=&quot;ec-radiogroup__wrap&quot;]/div[@class=&quot;ec-radiogroup__items&quot;]/fieldset[1]/div[@class=&quot;ec-radiogroup__items-inner&quot;]/label[@class=&quot;ec-radiogroup__item ec-radiogroup__item--202609-1522651231641 ec-radiogroup__item--Bank-Transfer   ec-radiogroup__item--multiline&quot;]/div[@class=&quot;ec-radiogroup__radio&quot;]/div[@class=&quot;form-control--radio form-control&quot;]/div[@class=&quot;form-control__radio-wrap&quot;]/input[@class=&quot;form-control__radio&quot;]</value>
+      <webElementGuid>a75de54e-050a-4ac6-9818-cbc4ebf2b08b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id=''])[3]</value>
+      <webElementGuid>9c87f1df-108d-4629-bef5-46549a514a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ecwid-products']/div[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div[4]/div[2]/div[2]/div/div/div/div/div/fieldset/div/label[3]/div/div/div/input</value>
+      <webElementGuid>9b28d881-6b28-4671-96df-725cba3049b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]/div/div/div/input</value>
+      <webElementGuid>1c0f57ab-0b27-44b7-b065-55691fcdaf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio']</value>
+      <webElementGuid>203c3846-a5cd-4e1d-954c-c673cbda3c5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

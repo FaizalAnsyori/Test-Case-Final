@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bank Transfer</name>
+   <tag></tag>
+   <elementGuidId>89bc3524-73eb-43b6-a8e1-7cbb1c1aa083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='feature-list-Rugwmz-FLT22']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#feature-list-Rugwmz-FLT22 > div.ins-tile__item-header > div.ins-tile__item-title > div.ins-tile__feature-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Bank Transfer&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97cd8e74-1972-42b8-a4db-6442db707fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ins-tile__feature-title</value>
+      <webElementGuid>f7ac5b9e-7dc8-4a1a-9eb0-775926609532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank Transfer </value>
+      <webElementGuid>ae554d1f-f573-4ada-94ce-825bd403dd8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;feature-list-Rugwmz-FLT22&quot;)/div[@class=&quot;ins-tile__item-header&quot;]/div[@class=&quot;ins-tile__item-title&quot;]/div[@class=&quot;ins-tile__feature-title&quot;]</value>
+      <webElementGuid>73d9d3b2-d1d5-4636-815c-70ebf9563c4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='feature-list-Rugwmz-FLT22']/div/div/div[2]</value>
+      <webElementGuid>6b77b8d9-0bd6-4fa8-b949-2f58da8da0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Accept Cash in Omani Rials. No Other Currency will be accepted.'])[1]/following::div[6]</value>
+      <webElementGuid>0bdd75eb-fa70-4176-9f8c-a2ce286cdf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash on Delivery'])[1]/following::div[10]</value>
+      <webElementGuid>06addd15-b2e9-4c9c-bca7-db3fb1a51f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gcash'])[1]/preceding::div[7]</value>
+      <webElementGuid>ea7c56d6-bc21-42ca-a1f7-7946d19fb7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bank Transfer']/parent::*</value>
+      <webElementGuid>e3968096-224c-46c9-8790-4dcee19c5aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]</value>
+      <webElementGuid>3d1fe8ae-1833-4fe6-b0ba-4c3ce467e566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bank Transfer ' or . = 'Bank Transfer ')]</value>
+      <webElementGuid>486b3610-e0b7-427b-87bc-cd23d19f6520</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

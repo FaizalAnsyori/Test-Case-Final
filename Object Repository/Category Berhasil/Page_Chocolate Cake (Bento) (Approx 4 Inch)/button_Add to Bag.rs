@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to Bag</name>
+   <tag></tag>
+   <elementGuidId>2072cfbd-97db-4a83-a3c6-b4008d03970c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-control.form-control--button.form-control--large.form-control--primary.form-control--flexible.form-control--animated.details-product-purchase__add-to-bag.form-control__button--icon-center.form-control--done > button.form-control__button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add to Bag&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88d764e0-4d15-48da-9069-a265cde7be24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control__button</value>
+      <webElementGuid>ef7b7a97-c3ff-48cc-a662-f1e8db58faed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d6358824-6cf3-48f7-a2b7-f787ed3a3fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Bag</value>
+      <webElementGuid>84682888-ff7f-4a04-98c9-2dcd24246396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ecwid-products&quot;)/div[@class=&quot;ec-storefront-v2 ec-size ec-size--xxs ec-size--xs ec-size--s ec-size--m ecwid-no-touch ecwid-supports-cssanimations ecwid-responsive ecwid-no-dragndrop&quot;]/div[1]/div[@class=&quot;ecwid-productBrowser ecwid-productBrowser-ProductPage ecwid-productBrowser-ProductPage-634131568&quot;]/div[1]/div[1]/div[2]/div[@class=&quot;ec-wrapper&quot;]/div[@class=&quot;ec-store ec-store__product-page ec-store__product-page--634131568 ec-store__product-page--c28419106 ec-store__product-page--c164833849&quot;]/div[@class=&quot;ec-store__content-wrapper&quot;]/div[1]/div[@class=&quot;product-details product-details--layout-sidebar-right product-details--description-basic&quot;]/div[@class=&quot;product-details__sidebar&quot;]/div[@class=&quot;product-details-module product-details__action-panel details-product-purchase&quot;]/div[@class=&quot;product-details-module__content product-details-module__content--indented&quot;]/div[@class=&quot;details-product-purchase__controls&quot;]/div[@class=&quot;details-product-purchase__bag-controls&quot;]/div[@class=&quot;details-product-purchase__add-buttons&quot;]/div[@class=&quot;form-control form-control--button form-control--large form-control--primary form-control--flexible form-control--animated details-product-purchase__add-to-bag form-control__button--icon-center form-control--done&quot;]/button[@class=&quot;form-control__button&quot;]</value>
+      <webElementGuid>c2790ca8-5e03-4eb4-b06a-1bfc190ac8a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>1df32ae4-ab65-4a2b-9465-2fb05218e410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ecwid-products']/div[2]/div/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>f10f64fc-20fa-41a2-816f-6208b54abb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add More'])[1]/following::button[1]</value>
+      <webElementGuid>84213635-fb91-406b-afd9-1784f54d7489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity:'])[1]/following::button[2]</value>
+      <webElementGuid>6160525a-ca78-4e24-8840-ac6c81e13fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to Checkout'])[1]/preceding::button[1]</value>
+      <webElementGuid>a36490e9-3986-488e-a8ed-2e1103147b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>b59efa22-b611-4db5-a32f-b1d925025b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add to Bag' or . = 'Add to Bag')]</value>
+      <webElementGuid>6054ec75-a646-4ef9-bc96-130db96f0c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

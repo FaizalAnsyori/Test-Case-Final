@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PRE ORDER 2 DAYS_grid-product__picture-_d74ae6</name>
+   <tag></tag>
+   <elementGuidId>7116a913-17cd-4df7-bed0-7a319854a4b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ecwid-products']/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/a/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid-product__picture-additional.grid-product__picture-additional--simple</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PRE ORDER 2 DAYS Chocolate Cake (Bento) (Approx 4 Inch)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81a2b12a-b4ec-4a60-87f9-35972fcc7965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-product__picture-additional grid-product__picture-additional--simple</value>
+      <webElementGuid>e370565a-33dc-4788-95ed-fc3d7b252e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ecwid-products&quot;)/div[@class=&quot;ec-storefront-v2 ec-size ec-size--xxs ec-size--xs ec-size--s ec-size--m ecwid-no-touch ecwid-supports-cssanimations ecwid-responsive ecwid-no-dragndrop&quot;]/div[1]/div[@class=&quot;ecwid-productBrowser ecwid-productBrowser-CategoryPage ecwid-productBrowser-CategoryPage-164833849&quot;]/div[1]/div[1]/div[2]/div[@class=&quot;ec-wrapper&quot;]/div[@class=&quot;ec-store ec-store__category-page ec-store__category-page--164833849 ec-store--medium-category-images ec-store--medium-product-images&quot;]/div[@class=&quot;ec-store__content-wrapper ec-store__content-wrapper--wide&quot;]/div[@class=&quot;ec-grid&quot;]/div[@class=&quot;grid__wrap&quot;]/div[@class=&quot;grid__wrap-inner&quot;]/div[@class=&quot;grid__products grid__products--classic grid__products--layout-center grid__products--medium-items grid__products--aspect-ratio-1&quot;]/div[@class=&quot;grid-product grid-product--id-634131568 grid-product--has-additional-image&quot;]/div[@class=&quot;grid-product__wrap&quot;]/div[@class=&quot;grid-product__wrap-inner&quot;]/a[@class=&quot;grid-product__image&quot;]/div[@class=&quot;grid-product__image-wrap&quot;]/div[@class=&quot;grid-product__picture-additional grid-product__picture-additional--simple&quot;]</value>
+      <webElementGuid>468cc12b-a47a-4788-b308-a5e4cd4852fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ecwid-products']/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/a/div[3]/div[2]</value>
+      <webElementGuid>4e579362-632b-46fd-92ca-2c685ed81c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[3]/div[2]</value>
+      <webElementGuid>c9fbc70d-bd17-4001-a912-5e1fc43f36f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cash on Delivery</name>
+   <tag></tag>
+   <elementGuidId>7e3eade3-924e-40d8-a090-b33e966c6768</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='feature-list-Rugwmz-FLT21']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ins-tile__feature-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cash on Delivery&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0768d247-32c2-4a5e-9d24-04d34df42221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ins-tile__feature-title</value>
+      <webElementGuid>f297e1dc-1926-498a-b413-9de85131d04f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cash on Delivery </value>
+      <webElementGuid>cb6f0dc6-9095-49bb-8a90-774090bac9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;feature-list-Rugwmz-FLT21&quot;)/div[@class=&quot;ins-tile__item-header&quot;]/div[@class=&quot;ins-tile__item-title&quot;]/div[@class=&quot;ins-tile__feature-title&quot;]</value>
+      <webElementGuid>cb06e699-3267-4b20-94d3-3f9da4575367</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='feature-list-Rugwmz-FLT21']/div/div/div[2]</value>
+      <webElementGuid>ea3c984a-80f7-4f7a-bce1-fef54ebb81bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Options'])[2]/following::div[7]</value>
+      <webElementGuid>6353fefa-56b3-47d4-910d-5082d7375806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Options'])[1]/following::div[11]</value>
+      <webElementGuid>f5e40eae-ca35-4432-bc13-6b2c0f0e2635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Accept Cash in Omani Rials. No Other Currency will be accepted.'])[1]/preceding::div[3]</value>
+      <webElementGuid>342f57cd-29a8-4448-b835-63c24410225c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Transfer'])[1]/preceding::div[7]</value>
+      <webElementGuid>91966c48-e29f-487d-b2ae-aef35fa8f70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cash on Delivery']/parent::*</value>
+      <webElementGuid>da304693-18d6-4077-b78f-703d7fcaa0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main[2]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>0967d510-cb26-4db0-a2e5-fe40d71a0a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cash on Delivery ' or . = 'Cash on Delivery ')]</value>
+      <webElementGuid>28b78520-d311-417f-927f-55e47469797b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

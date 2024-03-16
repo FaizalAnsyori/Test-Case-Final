@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All data is transmitted encrypted via a_8e360a</name>
+   <tag></tag>
+   <elementGuidId>8b257d7c-0e5f-4fff-8b2f-b73df0780145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ecwid-products']/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div[4]/div[2]/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.form-control__button > div.form-control__loader</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Checkout&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc58e5cf-a69e-4573-8e12-5bea278b3e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control__loader</value>
+      <webElementGuid>e7161411-053e-4cf1-85da-94a053cf0b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ecwid-products&quot;)/div[@class=&quot;ec-storefront-v2 ec-size ec-size--xxs ec-size--xs ec-size--s ec-size--m ecwid-no-touch ecwid-supports-cssanimations ecwid-responsive ecwid-no-dragndrop&quot;]/div[1]/div[@class=&quot;ecwid-productBrowser ecwid-productBrowser-CartPage&quot;]/div[2]/div[1]/div[2]/div[@class=&quot;ec-wrapper&quot;]/div[@class=&quot;ec-store ec-store__cart-page&quot;]/div[@class=&quot;ec-store__content-wrapper&quot;]/div[@class=&quot;ec-cart notranslate&quot;]/div[@class=&quot;ec-cart__body&quot;]/div[@class=&quot;ec-cart__body-inner&quot;]/div[@class=&quot;ec-cart__checkout&quot;]/div[@class=&quot;ec-cart__buttons&quot;]/div[2]/div[@class=&quot;form-control form-control--button form-control--large form-control--primary form-control--flexible form-control--animated form-control--done ec-cart__button ec-cart__button--checkout&quot;]/button[@class=&quot;form-control__button&quot;]/div[@class=&quot;form-control__loader&quot;]</value>
+      <webElementGuid>a19606ec-1576-4672-9186-83cb2b9ce8ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ecwid-products']/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div[4]/div[2]/div/button/div</value>
+      <webElementGuid>d738b101-8fe7-4ec7-b440-04132573c2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>19846250-b728-4e1b-890b-7ce37f64b1ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

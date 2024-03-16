@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>12f9b0c3-6324-4f81-a032-3e5c98922771</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore the Latest Arrivals!'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;!ADA.Menu!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6dbbb4eb-5a4a-4e79-be50-b02c32d4d557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>71e04a32-0dfe-484c-ba99-6aa29db71f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>6efbe62f-0616-4eec-9fff-a87e12e2923f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>1c1a8a38-4492-4149-a133-4bdfa588060a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>206e79b2-2e26-43cf-854e-b97b3a321df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tile-header-2Mph3d&quot;)/div[@class=&quot;ins-tile__wrap ins-tile__animated&quot;]/div[@class=&quot;ins-header&quot;]/div[@class=&quot;ins-header__wrap&quot;]/div[@class=&quot;ins-header__inner&quot;]/div[@class=&quot;ins-header__row&quot;]/div[@class=&quot;ins-header__left&quot;]/a[@class=&quot;ins-header__icon ins-header__icon--burger&quot;]/svg[1]</value>
+      <webElementGuid>2d5741a9-aa55-410d-8cf9-98cfaf7a85cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore the Latest Arrivals!'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>34418109-a03e-4bcc-ac62-a3d3aadb836a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENJOY FREE DELIVERY ON ORDERS OVER 20 - RIALS IN MUSCAT'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>82c3deed-bc51-4424-9abb-4a3df70fa494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b9692f9f-7a87-4c57-9d2a-372a0295492c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit our FB'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>1b73f740-9b03-48d1-8749-90587afb9952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
